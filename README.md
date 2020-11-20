@@ -92,11 +92,6 @@ Other service use the `Code` as a reference point for syncing and queueing.
 
 ### Sync Service
 
-
-
-
-### Sync Service
-
 The sync service allows for users in the same room to have the same video shown,
 and have it at the same timestamp.
 
@@ -122,6 +117,8 @@ service goes down, the other services will still remaining running.
 Each service can be called by a HTTP request. If a certain HTTP request fails,
 our services have elaborate error handling code that allows other services to
 not completely crash and burn.
+
+#### Container and Container Orchestration
 
 #### Health checks
 
