@@ -90,6 +90,15 @@ type Room struct {
 
 Other service use the `Code` as a reference point for syncing and queueing.
 
+For more information please consult the repo readme for this (service)[https://www.github.com/galactus-player/roomservice]
+
+
+### Queue Service
+
+
+For more information please consult the repo readme for this (service)[https://www.github.com/galactus-player/queueservice]
+
+
 ### Sync Service
 
 The sync service allows for users in the same room to have the same video shown,
@@ -105,6 +114,7 @@ export default function initConnection(socket: Socket) {
   socket.on("reset", reset);
 }
 ```
+For more information please consult the repo readme for this (service)[https://www.github.com/galactus-player/sync-service]
 
 
 ## How is this Scalable
