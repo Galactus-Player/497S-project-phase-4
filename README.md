@@ -107,7 +107,7 @@ The [queueservice](https://www.github.com/galactus-player/queueservice) has 4 en
 
 #### Video Object
 
-```
+```typescript
 export interface Video {
     id: string;
     index: number;
