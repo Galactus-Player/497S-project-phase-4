@@ -1,13 +1,16 @@
 # Galactus Phase 4
 
-## Table of Contents
-
 ## Overview and Goals
 
 Galactus is an online video syncing service that allows multiple users to watch
 and control the same videos from the most common video streaming services at the
 same time. Our goal is to provide a blazing fast syncing service that can allow
 more than 128 users to watch the same video at the same time.
+
+[Demo Video - YouTube](https://www.youtube.com/watch?v=89ioAbGyJAw)
+
+[Discussions around Project Goals, Scalablity, and What's Next for Galactus! - YouTube](https://www.youtube.com/watch?v=8YLeX4N_X98)
+
 
 ## Team Members
 
