@@ -32,7 +32,7 @@ Our system is composed of 4 parts.
 
 ### System Design Diagram
 
-![](https://imgur.com/Lql8uEu)
+![](https://i.imgur.com/Lql8uEu.png[/img])
 
 ### Frontend
 
