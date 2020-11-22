@@ -163,7 +163,7 @@ For example, the databases (postgres and mongodb) are started before every other
 2. [Dan](https://www.twitch.tv/videos/811546509)
 3. [Sathvik](https://www.youtube.com/watch?v=O9mKNa0-wz4)
 4. [Ayush](https://example.com)
-5. [Alex](https://example.com)
+5. [Alex](https://youtu.be/YY7kdNI0adk)
 
 ## Video Discussion
 
