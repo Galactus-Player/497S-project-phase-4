@@ -173,7 +173,8 @@ For example, the databases (postgres and mongodb) are started before every other
 
 ## Code
 
-1. [Frontend](https://www.github.com/galactus-player/web)
+1. [Web Player](https://www.github.com/galactus-player/web)
 2. [Room Service](https://www.github.com/galactus-player/roomservice)
 3. [Queue Service](https://www.github.com/galactus-player/queueservice)
 4. [Sync Service](https://www.github.com/galactus-player/sync-service)
+5. [Front-End](https://github.com/Galactus-Player/frontend)
