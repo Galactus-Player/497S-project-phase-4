@@ -137,7 +137,7 @@ Additionally, because these microservices are dependent on systems such as datab
 For example, the databases (postgres and mongodb) are started before every other service and marked as "healthy" when a database client is able to connect with the service running. 
 
 ## Individual Videos
-1. [Luke](https://example.com)
+1. [Luke](https://youtu.be/HtpxbTku9cM)
 2. [Dan](https://www.twitch.tv/videos/811546509)
 3. [Sathvik](https://example.com)
 4. [Ayush](https://example.com)
