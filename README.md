@@ -99,10 +99,10 @@ The service handles the task of managing the queue of videos for rooms. It let's
 
 The [queueservice](https://www.github.com/galactus-player/queueservice) has 4 enpoints: 
 ```
-(GET) /v1/queue/{room_code}          # Retrieves list of video in the right order
+(GET)  /v1/queue/{room_code}          # Retrieves list of video in the right order
 (POST) /v1/queue/{room_code}/add     # Adds video
 (POST) /v1/queue/{room_code}/remove  # Removes video
-(GET) /v1/queue/{room_code}/play     # Moves video to top of queue
+(GET)  /v1/queue/{room_code}/play     # Moves video to top of queue
 ```
 
 #### Video Object
