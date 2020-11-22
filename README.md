@@ -95,6 +95,28 @@ For more information please consult the repo readme for this [service](https://w
 
 ### Queue Service
 
+The service handles the task of managing the queue of videos for rooms. It let's users add, remove and modify the ordering of videos in queue, given a room code such as `1234`. The service also does the job of adding metadata such as thumbnail url and title when adding a url of a video to the queue.
+
+The [queueservice](https://www.github.com/galactus-player/queueservice) has 4 enpoints: 
+```
+(GET) /v1/queue/{room_code}          # Retrieves list of video in the right order
+(POST) /v1/queue/{room_code}/add     # Adds video
+(POST) /v1/queue/{room_code}/remove  # Removes video
+(GET) /v1/queue/{room_code}/play     # Moves video to top of queue
+```
+
+#### Video Object
+
+```
+export interface Video {
+    id: string;
+    index: number;
+    url: string;
+    thumbnailUrl?: string;
+    title?: string;
+    addedAt: Date;
+}
+```
 
 For more information please consult the repo readme for this [service](https://www.github.com/galactus-player/queueservice)
 
