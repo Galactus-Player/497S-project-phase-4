@@ -2,10 +2,10 @@
 
 ## Overview and Goals
 
-Galactus is an online video syncing service that allows multiple users to watch
+[Galactus](https://galactus.live) is an online video syncing service that allows multiple users to watch
 and control the same videos from the most common video streaming services at the
 same time. Our goal is to provide a blazing fast syncing service that can allow
-more than 128 users to watch the same video at the same time.
+more than 128 users to watch the same video at the same time. Visit https://galactus.live to use the project now!
 
 [Demo Video - YouTube](https://www.youtube.com/watch?v=89ioAbGyJAw)
 
