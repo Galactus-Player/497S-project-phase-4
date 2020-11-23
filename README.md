@@ -12,13 +12,12 @@ more than 128 users to watch the same video at the same time.
 [Discussions around Project Goals, Scalablity, and What's Next for Galactus! - YouTube](https://www.youtube.com/watch?v=8YLeX4N_X98)
 
 
-## Team Members
-
-- Luke Yeh
-- Dan Cline
-- Sathvik Birudavolu
-- Alex Hulbert
-- Ayush Khandelwal
+## Team Members & Individual Videos
+- [Luke](https://youtu.be/HtpxbTku9cM)
+- [Dan](https://www.twitch.tv/videos/811546509)
+- [Sathvik](https://www.youtube.com/watch?v=O9mKNa0-wz4)
+- [Ayush](https://example.com)
+- [Alex](https://youtu.be/YY7kdNI0adk)
 
 ## System Design
 
@@ -160,16 +159,6 @@ Our microservices may need to be restarted in the case of failure, so we impleme
 Additionally, because these microservices are dependent on systems such as databases, healthchecks allow us to initialize our system in the correct order every time.
 
 For example, the databases (postgres and mongodb) are started before every other service and marked as "healthy" when a database client is able to connect with the service running. 
-
-## Individual Videos
-1. [Luke](https://youtu.be/HtpxbTku9cM)
-2. [Dan](https://www.twitch.tv/videos/811546509)
-3. [Sathvik](https://www.youtube.com/watch?v=O9mKNa0-wz4)
-4. [Ayush](https://example.com)
-5. [Alex](https://youtu.be/YY7kdNI0adk)
-
-## Video Discussion
-
 
 ## Code
 
