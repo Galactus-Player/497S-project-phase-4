@@ -16,7 +16,7 @@ more than 128 users to watch the same video at the same time. Visit https://gala
 - [Luke](https://youtu.be/HtpxbTku9cM)
 - [Dan](https://www.twitch.tv/videos/811546509)
 - [Sathvik](https://www.youtube.com/watch?v=O9mKNa0-wz4)
-- [Ayush](https://example.com)
+- [Ayush](https://youtu.be/QIc7by3O9cc)
 - [Alex](https://youtu.be/YY7kdNI0adk)
 
 ## System Design
